@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cpusimulation/static/css/main.4d887bfc.css",
+    "main.js": "/cpusimulation/static/js/main.76d8b379.js",
+    "index.html": "/cpusimulation/index.html",
+    "main.4d887bfc.css.map": "/cpusimulation/static/css/main.4d887bfc.css.map",
+    "main.76d8b379.js.map": "/cpusimulation/static/js/main.76d8b379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d887bfc.css",
+    "static/js/main.76d8b379.js"
+  ]
+}
