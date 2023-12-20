@@ -840,7 +840,7 @@ function App() {
         newControl.ALUOP = '00'
         newControl.MemWrite = 0
         newControl.ALUSrc = 1
-        newControl.RegWrite = 0
+        newControl.RegWrite = 1
       }
       //sw
       else if(opCode =='101011'){
